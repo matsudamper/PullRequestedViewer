@@ -3,7 +3,7 @@ import kotlin.reflect.full.declaredMembers
 import kotlin.reflect.full.functions
 
 plugins {
-    kotlin("jvm") version "1.4.30"
+    kotlin("jvm") version "1.5.0"
     id("io.spring.dependency-management") version "1.0.11.RELEASE"
 }
 
