@@ -13,7 +13,7 @@ repositories {
     jcenter()
     gradlePluginPortal()
     mavenCentral()
-}""
+}
 
 apollo {
     generateKotlinModels.set(true)
